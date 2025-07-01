@@ -1,4 +1,4 @@
-# lewis-echo-theory
+**lewis-echo-theory**
 Recursive hash pattern theory using SHA-256 echo mapping
 
 Lewis Echo Theory
@@ -47,6 +47,7 @@ Step 1: Install Python (3.7+)
 
 ```bash
 sudo apt install python3 python3-pip
+```
 
 Step 2: Clone the Repository
 git clone https://github.com/yourname/lewis-echo-theory.git
@@ -61,6 +62,7 @@ This will:
 	•	Repeat this process with forward and reversed variants
 	•	Compare each round’s output against a wordlist
 Step 4: Echo Matching Output
+```
 {
   "input": "awake",
   "iterations": 5,
@@ -74,7 +76,7 @@ Step 4: Echo Matching Output
     ...
   ]
 }
-
+```
 Step 5: Use Custom Wordlist
 To use a full wordlist like rockyou.txt:
 python3 echo_theory.py --input "awake" --wordlist wordlists/rockyou.txt
@@ -96,7 +98,7 @@ SHA256("awake" + "7a3cd...") → b54ef...
 SHA256(reverse("awake")) → ekawa → 320ac...
 Pattern found:
 	•	Fragment “wake” appears in iteration 2
-	•	“aw” appears mirrored in reversed hash
+	•	“aw” appears mirrored in the reversed hash
 
 Manifesto (PDF)
 
