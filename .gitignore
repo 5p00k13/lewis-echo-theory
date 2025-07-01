@@ -1,0 +1,12 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore logs
+*.log
+
+# macOS system file
+.DS_Store
+
+# Ignore wordlist if you don’t want to share it
+wordlist/*.txt
