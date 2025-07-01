@@ -1,0 +1,64 @@
+{
+  "awake": [
+    {
+      "step": 1,
+      "input": "awake",
+      "transformed": "\u009e\u00a0\u0095\u00a9\u00c7",
+      "sha256": "2aa3b8497e8a6c6c0ba43a5ad8f9b6bce9b387a5275615c82af37541ecd4c661"
+    },
+    {
+      "step": 2,
+      "input": "2aa3b8497e8a6c6c0ba43a5ad8f9b6bce9b387a5275615c82af37541ecd4c661",
+      "transformed": "i\u009a\u0098\u009bd\u009b\u0095\u0099\u0095ik\u0099l\u00ca\u0095jh\u00c5\u009bjk\u009ame\u0098\u009ap\u009cg\u0096\u009e\u00ca\u0093\u00c7\u0098\u00c3\u009e\u00caq\u0097\u00c3\u0098\u009ai\u0096\u0092\u00c8\u0092\u00c6\u0097\u0099o\u0092n\u00ca\u0099i\u0098p\u00c6k\u00c6\u00c5\u0097",
+      "sha256": "8cfef20629bddba930d020ec1402aef7725d5131b188c12a2f673d1cd578bcac"
+    },
+    {
+      "step": 3,
+      "input": "8cfef20629bddba930d020ec1402aef7725d5131b188c12a2f673d1cd578bcac",
+      "transformed": "\u0096\u0092\u00c8\u00c7kg\u0096\u00c5\u0099c\u0094f\u009bh\u00c8h\u009ak\u0093\u0095\u009e\u009ed\u0092dhb\u0098\u00c5\u0097hi\u009c\u00c7\u009b\u0094h\u0091dh\u00c4\u00cba\u0095a\u0097ccl\u00c5\u0097\u0096\u009c\u0095rii\u0094\u0098\u009d\u00c9\u00cb\u00c8\u0099",
+      "sha256": "0f93cf04e4d8d8a00a225cffe52fc91ba0693d0edd0273eff3000e0f2a24f123"
+    },
+    {
+      "step": 4,
+      "input": "0f93cf04e4d8d8a00a225cffe52fc91ba0693d0edd0273eff3000e0f2a24f123",
+      "transformed": "j\u0094e\u00ccee\u00c2i\u00ca`\u009ec\u0095`k\u00cc\u0096\u00c6\u0097\u009cca\u009c\u009d\u00ca\u0092\u00c5fkf\u0091\u0095\u00c6bm\u00c4\u00cbd\u0098\u009d\u009d\u0098\u0093l\u0096f\u0097ec\u0099h\u0095\u009a\u0096\u009a\u009ae\u0095\u0099\u0093k\u009a\u0097e",
+      "sha256": "d25fffc2d9249df0d6927d8852e91fd7bc98e10eca9041d0aa7efc5cb25d38be"
+    },
+    {
+      "step": 5,
+      "input": "d25fffc2d9249df0d6927d8852e91fd7bc98e10eca9041d0aa7efc5cb25d38be",
+      "transformed": "\u00c7\u0097l\u0097\u00c7j\u0096\u0096\u00c8\u0097\u00c8\u00cb\u009b\u009a\u0093\u0096d\u009bel\u0096\u009c\u00c7\u00c4\u00cb\u0092a\u00c6\u009ej\u00c7\u0097g\u0099\u009f\u0095\u009d\u00c6j\u0097\u0099n\u00c9ge\u009ag\u00c9\u0092\u00ca\u00c7pfgk\u009d\u0098\u009c\u0099\u009d\u0098ge\u0094",
+      "sha256": "682d019b90e07a87f0d3469bd0ed2ef5b22375df68ba5d357827221a0152c742"
+    },
+    {
+      "step": 6,
+      "input": "682d019b90e07a87f0d3469bd0ed2ef5b22375df68ba5d357827221a0152c742",
+      "transformed": "\u0095\u0099\u009b\u00c7ceh`\u00c4h\u0094jj\u0097\u009coi\u0099\u00c8h\u00c3\u0097p\u0099\u0097\u009cljjk\u0097\u00c7\u0098\u00cc\u00cbe\u00c7\u0098`\u00c9\u00c8o\u009a\u0096g\u0095i\u00cb\u009bh\u00c5\u009ag\u00cae\u009a\u0098mb\u0094\u0096\u0093\u009e\u0099",
+      "sha256": "411df720debb3eda1d06ffca57dd33ab9065501fa326fc7897a37877f692a216"
+    },
+    {
+      "step": 7,
+      "input": "411df720debb3eda1d06ffca57dd33ab9065501fa326fc7897a37877f692a216",
+      "transformed": "n\u0094\u0096\u0091\u0098\u009bh\u00cak\u009aj\u0098\u0097\u00c4\u009cqq\u0099\u0093\u00cb\u0098jl\u0094\u00ca\u0092dmjffr\u00c4\u00c5\u0095h\u00c7\u00c9\u009d\u0097\u0099\u00c4\u009d\u00cbo\u0093\u00c7e\u0091\u009c\u0095h\u0093\u009b\u00c6\u00c6\u0096fp\u00cc\u0096ggm",
+      "sha256": "338c8f80734619e4921aa7446e4d3bc22b8b27e9c29ec68a65d2f5d8f63e36a8"
+    },
+    {
+      "step": 8,
+      "input": "338c8f80734619e4921aa7446e4d3bc22b8b27e9c29ec68a65d2f5d8f63e36a8",
+      "transformed": "\u009a\u00c7\u009c\u0099\u00c7\u0095k\u009dj\u00cah\u00c7j\u009bf\u009c\u0095il\u0098\u00c6ne\u0096\u009f\u009d\u0098h\u0096h\u00c4\u0098b\u00c7\u0092\u0096\u0098\u0098\u009b\u0097fl\u009c\u00c5\u00c3hj\u009al\u0097\u009b\u0096m\u009ae\u0098\u0094l\u00cb\u0099\u00c8l\u0096j",
+      "sha256": "48193a9d3badfee0124a65168d4e40a9d9ced19a283ef7b7808ddc8e22f72cee"
+    },
+    {
+      "step": 9,
+      "input": "48193a9d3badfee0124a65168d4e40a9d9ced19a283ef7b7808ddc8e22f72cee",
+      "transformed": "\u009c\u0096\u00c6fn\u009dh\u0094\u009ak\u0094\u009b\u00c5ofhg\u00c3i\u0096\u00c6j\u009b\u0093\u0097nj\u00c7\u00c6\u00c8\u009c\u009c\u009a\u00c6de\u0097g\u009b\u009c\u0097i\u009aj\u0099\u0099igh\u0097\u009b\u009a\u009a\u00c5\u0096h\u0094r\u00c4dj\u0093\u009b\u009a",
+      "sha256": "469246820ad2e6d014757af5606e15d93b18189481034bfbcbcfead218679891"
+    },
+    {
+      "step": 10,
+      "input": "469246820ad2e6d014757af5606e15d93b18189481034bfbcbcfead218679891",
+      "transformed": "amoq\u009a\u0099nbc\u0097\u00c7\u009d\u00cb\u0099\u00c4\u009a\u0097\u00ca\u00c8\u0095\u0094e\u0092\u009d\u0098\u009a\u009chqg\u00c3kk\u00c9ld\u00cag\u0092\u0097\u0097\u009c\u00c2pg\u009cl\u0097f\u00c9g\u0098k\u0094\u0092\u0095eko\u0097eiik",
+      "sha256": "95d796742accb24f3647a34806411bee9cbe4b91361163c34ba4503635506a11"
+    }
+  ]
+}
